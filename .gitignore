@@ -48,4 +48,4 @@ crashlytics.properties
 crashlytics-build.properties
 
 # Bower Support
-bower_components
+# bower_components
